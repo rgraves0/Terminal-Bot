@@ -7,4 +7,5 @@ psutil
 disk
 gitpython
 requests
-pip3
+gunicorn
+git+https://github.com/zevtyardt/lk21.git
